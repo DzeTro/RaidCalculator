@@ -5,9 +5,7 @@ using System.Windows.Controls;
 
 namespace RaidRechner
 {
-    /// <summary>
-    /// Interaktionslogik für MainWindow.xaml
-    /// </summary>
+    
     public partial class MainWindow : Window
     {
         string[] raidArray = new string[] { "Raid 0", "Raid 1", "Raid 5", "Raid 6" };
